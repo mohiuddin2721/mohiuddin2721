@@ -20,11 +20,11 @@ Skills: REACTjs / JS / HTML / CSS / SASS / BOOTSTRAP / TAILWIND / daisyUI/ NODE 
 
 ![Profile views](https://gpvc.arturio.dev/mohiuddin2721)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mohiuddin2721) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohiuddin2721)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohiuddin2721&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohiuddin2721&show_icons=true&theme=radical) 
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mohiuddin2721) 
 
 ![GitHub metrics](https://metrics.lecoq.io/mohiuddin2721)  
 
